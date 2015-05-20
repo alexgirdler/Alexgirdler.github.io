@@ -171,6 +171,9 @@
 
 .post-list {
     &-side {
+        @include media-query($on-palm) {
+            display: none;
+        }
         margin-left: 10px;
         float: left;
     }
