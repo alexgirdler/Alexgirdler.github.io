@@ -1,0 +1,12 @@
+# Site settings
+title: California Blog
+email: me@alexgirdler.com
+description: > # this means to ignore newlines until "baseurl:"
+  Anything and everything I do out in California with Man Crates
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://alexgirdler.com" # the base hostname & protocol for your site
+twitter_username: zrave
+github_username:  alexgirdler
+
+# Build settings
+markdown: kramdown
