@@ -23,3 +23,4 @@ of the repositories that affect our website. I will probably turn this into a [r
 gem](www.rubygems.org) so that others can benefit from my work.
 
 Here is a quick video of the apartment I settled on.
+![Apartment Video](https://www.youtube.com/watch?v=zlRb-aPyAv4)
